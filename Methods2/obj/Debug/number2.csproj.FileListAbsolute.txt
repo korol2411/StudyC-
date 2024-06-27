@@ -1,0 +1,7 @@
+D:\Games\260624\number2\bin\Debug\number2.exe.config
+D:\Games\260624\number2\bin\Debug\number2.exe
+D:\Games\260624\number2\bin\Debug\number2.pdb
+D:\Games\260624\number2\obj\Debug\number2.csproj.AssemblyReference.cache
+D:\Games\260624\number2\obj\Debug\number2.csproj.CoreCompileInputs.cache
+D:\Games\260624\number2\obj\Debug\number2.exe
+D:\Games\260624\number2\obj\Debug\number2.pdb
