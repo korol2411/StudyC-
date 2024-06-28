@@ -1,0 +1,7 @@
+D:\Games\Methods\UseRef\UseRef\bin\Debug\UseRef.exe.config
+D:\Games\Methods\UseRef\UseRef\bin\Debug\UseRef.exe
+D:\Games\Methods\UseRef\UseRef\bin\Debug\UseRef.pdb
+D:\Games\Methods\UseRef\UseRef\obj\Debug\UseRef1.csproj.AssemblyReference.cache
+D:\Games\Methods\UseRef\UseRef\obj\Debug\UseRef1.csproj.CoreCompileInputs.cache
+D:\Games\Methods\UseRef\UseRef\obj\Debug\UseRef.exe
+D:\Games\Methods\UseRef\UseRef\obj\Debug\UseRef.pdb
