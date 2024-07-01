@@ -1,0 +1,7 @@
+D:\Games\Methods\StudyRecursia\StudyRecursia\obj\Debug\StudyRecursia.csproj.AssemblyReference.cache
+D:\Games\Methods\StudyRecursia\StudyRecursia\obj\Debug\StudyRecursia.csproj.CoreCompileInputs.cache
+D:\Games\Methods\StudyRecursia\StudyRecursia\bin\Debug\StudyRecursia.exe.config
+D:\Games\Methods\StudyRecursia\StudyRecursia\bin\Debug\StudyRecursia.exe
+D:\Games\Methods\StudyRecursia\StudyRecursia\bin\Debug\StudyRecursia.pdb
+D:\Games\Methods\StudyRecursia\StudyRecursia\obj\Debug\StudyRecursia.exe
+D:\Games\Methods\StudyRecursia\StudyRecursia\obj\Debug\StudyRecursia.pdb
